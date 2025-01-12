@@ -1,1 +1,0 @@
-print("Atualizando versão")
